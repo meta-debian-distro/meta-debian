@@ -21,3 +21,4 @@ DEBIAN_SECTION = "devel"
 DPR = "0"
 # There is not debian patch file
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "be5e06a4ad4d02205673706f9d599c40446a7521"

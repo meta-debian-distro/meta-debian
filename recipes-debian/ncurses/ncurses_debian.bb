@@ -23,3 +23,4 @@ file://exclude-host-includedir-from-CXX-test.patch \
 do_configure_append_class-native () {
 	ncurses_configure "narrowc" "--enable-overwrite"
 }
+SRCREV = "70c8e7341b229babb4abeaf0c2be3c8ee56013da"

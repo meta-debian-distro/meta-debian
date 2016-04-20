@@ -89,3 +89,4 @@ do_install_class-native () {
 }                                                                               
                                                                                 
 BBCLASSEXTEND = "native"
+SRCREV = "74a7b4ba195f3fe039fa13ba7cf03436d89bfc34"

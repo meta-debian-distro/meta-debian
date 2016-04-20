@@ -18,3 +18,4 @@ SRC_URI += " \
 file://arm-thumb-mutex_db5.patch;patchdir=.. \                      
 file://fix-parallel-build.patch \
 "
+SRCREV = "a008b972bd88f196819ea63480d1d47b660f71b4"

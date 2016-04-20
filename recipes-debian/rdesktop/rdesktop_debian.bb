@@ -19,3 +19,4 @@ DPR = "0"
 LIC_FILES_CHKSUM = "file://COPYING;md5=f27defe1e96c2e1ecd4e0c9be8967949"
 
 INSANE_SKIP_rdesktop_forcevariable = " already-stripped"
+SRCREV = "fbce38a89a83d000141346d295e5e5723b0c5adc"

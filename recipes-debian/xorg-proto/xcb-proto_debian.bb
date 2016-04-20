@@ -17,3 +17,4 @@ DPR = "0"
 
 # apply debian patch by quilt
 DEBIAN_PATCH_TYPE = "quilt"
+SRCREV = "33fa5ec3885418d78ebcef78d129ee294b6f61c0"

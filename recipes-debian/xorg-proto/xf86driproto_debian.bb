@@ -29,3 +29,4 @@ DPN = "x11proto-xf86dri"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "fd1948833053819b681475061b70204b03a9866f"

@@ -31,3 +31,4 @@ file://share/dot.profile \
 file://licenses/GPL-2 \
 "
 
+SRCREV = "b86c17f1d3e7754263aa28f39dc5904d79d1602a"

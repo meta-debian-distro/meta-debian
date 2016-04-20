@@ -59,3 +59,4 @@ do_configure_prepend() {
 			${S}/scripts/kconfig/lxdialog/check-lxdialog.sh
 	
 }
+SRCREV = "8feca13beb2589cc5463b934c97d5d03b149de05"

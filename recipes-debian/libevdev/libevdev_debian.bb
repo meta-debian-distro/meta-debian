@@ -18,3 +18,4 @@ inherit autotools pkgconfig
 inherit debian-package
 DEBIAN_SECTION = "misc"
 DPR = "0"
+SRCREV = "68e58b3d3c13c155716b386194e818aa0c2a90cd"

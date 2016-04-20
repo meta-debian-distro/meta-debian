@@ -7,3 +7,4 @@ require gcc-shared-source.inc
 ARM_INSTRUCTION_SET_armv4 = "arm"
 
 DEPENDS += "mpfr libmpc gmp zlib"
+SRCREV = "12a8700d53c18a381443a9dbdb2a440edb3ac0b1"

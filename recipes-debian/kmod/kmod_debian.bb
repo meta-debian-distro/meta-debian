@@ -69,3 +69,4 @@ inherit debian-package
 DPR = "0"
 
 SRC_URI += "file://depmod-search.conf"
+SRCREV = "53ac4c06ad04680ba6720fae107b9d4f6bb9c789"

@@ -29,3 +29,4 @@ do_install_append() {
 }
 FILES_${PN} += " /root/ "
 
+SRCREV = "2a2bec0db422a69f60cc6787c3b63778c6df8693"

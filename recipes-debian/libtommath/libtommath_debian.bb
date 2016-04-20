@@ -14,3 +14,4 @@ DPR = "0"
 SRC_URI += "\
         file://replace-group-wheel.patch \
 "
+SRCREV = "bcd5c4c9fcfcc12a8c33b11ed1c3958c5e8aa6b9"

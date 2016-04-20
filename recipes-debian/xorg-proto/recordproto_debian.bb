@@ -30,3 +30,4 @@ DPN = "x11proto-record"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "c43beda01621d4180c97fd8c1c17138bc18c76b3"

@@ -15,3 +15,4 @@ EXTRA_OECONF += " --enable-shared=yes"
 inherit autotools
 inherit debian-package
 DPR = "0"
+SRCREV = "cdc5b45400ae8afbe986f7c1f2d8661601615be8"

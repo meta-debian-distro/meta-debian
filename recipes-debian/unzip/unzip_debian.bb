@@ -54,3 +54,4 @@ SRC_URI += "\
 	file://avoid-strip.patch \
 	file://define-ldflags.patch \
 "
+SRCREV = "39a9d580b301def991ff122b0c0656871d6659d0"

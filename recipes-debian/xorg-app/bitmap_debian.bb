@@ -17,3 +17,4 @@ LIC_FILES_CHKSUM = "file://README;md5=63ccf60e4f37272dd4e0a43b9df8e339"
 do_configure_prepend() {
 	echo ${S}
 }
+SRCREV = "ad96a563d2492443d1a82f21f0038fd40f67839e"

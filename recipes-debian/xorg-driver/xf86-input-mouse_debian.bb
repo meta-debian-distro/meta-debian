@@ -29,3 +29,4 @@ debian_patch_quilt() {
                         quilt --quiltrc /dev/null push -a
         fi
 }
+SRCREV = "ddd18c80291531780e44cd1a3cf64e128c17a47e"
