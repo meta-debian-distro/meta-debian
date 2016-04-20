@@ -17,4 +17,4 @@ file://png.h;beginline=310;endline=424;md5=b87b5e9252a3e14808a27b92912d268d \
 #No need to apply patch because of the difference source code version
 #
 #SRC_URI += "file://0001-configure-lower-automake-requirement.patch"
-SRCREV = "190e611120a9142278d51d2683b2492d65d11c5d"
+SRCREV = "8643efa262f727c9bb1b1c879425e0e4333f3e53"
