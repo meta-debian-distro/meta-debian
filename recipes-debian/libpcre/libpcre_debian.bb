@@ -87,4 +87,4 @@ SRC_URI += " \
            file://run-ptest \
            file://Makefile \
 "
-SRCREV = "907a3b9124667fcee03308cdb0ead1acac80b74b"
+SRCREV = "256095f8b0e0c185b899c5de1f25fbe71c486540"
