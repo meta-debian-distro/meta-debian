@@ -40,3 +40,4 @@ do_configure_prepend() {
 	${S}/doc/gawk.info ${S}/doc/gawk.texi ${S}/doc/gawkinet.info\ 
 					      ${S}/doc/gawkinet.texi
 }
+SRCREV = "daa53b426c8931bade1af4a93ffcbd431608157f"

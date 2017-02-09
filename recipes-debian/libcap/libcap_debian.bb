@@ -15,3 +15,4 @@ inherit debian-package
 DEBIAN_SECTION = "libs"
 DPR = "0"
 DPN = "libcap2"
+SRCREV = "2d599281267c93dfaf547ab2329d8df00bbd32f1"

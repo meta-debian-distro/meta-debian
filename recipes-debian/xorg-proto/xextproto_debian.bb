@@ -33,3 +33,4 @@ DPR = "0"
 DPN = "x11proto-xext"
 
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "0f4ff62abc4f57d90139e6eeb32d431d8f7492df"

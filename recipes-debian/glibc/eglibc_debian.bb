@@ -66,3 +66,4 @@ EXTRA_OECONF += " \
 "
 
 FILES_${PN}-doc += "${datadir}"
+SRCREV = "b34edc2a1c93a148751f3d63a163f6a6acb6a300"

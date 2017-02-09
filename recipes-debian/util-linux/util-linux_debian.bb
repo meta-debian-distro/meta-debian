@@ -67,3 +67,4 @@ EXTRA_OECONF_class-native += " \
 EXTRA_OECONF_append = "\
 	--without-python \
 "
+SRCREV = "359efd25841c380dcda7f42f9e31b5a4e071b8f9"

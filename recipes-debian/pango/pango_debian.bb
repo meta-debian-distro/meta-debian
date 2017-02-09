@@ -26,3 +26,4 @@ do_configure_prepend() {
 	sed -i -e "/docs\/version.xml/d" ${S}/configure.ac
 	sed -i -e "/GTK_DOC_CHECK/d" ${S}/configure.ac
 }
+SRCREV = "5ec959a87186c5f78147372d2f9667b5aa7e69f3"

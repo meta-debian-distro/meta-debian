@@ -47,3 +47,4 @@ DEBIAN_PATCH_TYPE = "quilt"
 #   that use xorg-server.m4 may fail because of the following warning:
 #   "/usr/include/xorg" is unsafe for cross-compilation
 SRC_URI += "file://macro_tweak.patch"
+SRCREV = "1175313a2caf9fa9117f7dea6440094cf515844a"

@@ -31,3 +31,4 @@ DPN = "x11proto-randr"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "c8af3b7f0a2654b9143022dff6d78df87f6bf04d"

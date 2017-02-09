@@ -65,3 +65,4 @@ inherit debian-package
 
 DEBIAN_SECTION = "libs"
 DPR = "0"
+SRCREV = "2f733e1789c8ed593edabe28183557f3d6ecf776"

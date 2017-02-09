@@ -44,3 +44,4 @@ do_compile() {
 	echo ${S}
 	oe_runmake -I${S}/include
 }
+SRCREV = "35cd62cceac6c7bad2c438f8aa97aabfb9809e3d"

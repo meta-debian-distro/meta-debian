@@ -43,3 +43,4 @@ inherit debian-package
 DPR = "0"
 DEBIAN_SECTION = "x11"
 DEBIAN_PATCH_TYPE = "quilt"
+SRCREV = "e48ad2470519f78901181efa569b15c1f558f8b7"

@@ -33,3 +33,4 @@ DEBIAN_SECTION = "libdevel"
 DPR = "0"
 
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "ca2b5980eedab51961ccdf511256117f050a6b8d"

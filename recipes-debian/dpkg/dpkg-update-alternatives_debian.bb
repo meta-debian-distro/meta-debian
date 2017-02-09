@@ -45,3 +45,4 @@ FILES_${PN}-dbg = " \
 	${prefix}/src \
 	${sbindir}/.debug \
 "
+SRCREV = "e9b55fc2c16df3332944249e260190acf15873ad"

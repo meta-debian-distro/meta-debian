@@ -30,3 +30,4 @@ DPN = "x11proto-fonts"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "039fbd7e4af487e0b69c65f57da21f91c5536c9a"

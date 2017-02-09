@@ -94,3 +94,4 @@ DEBIAN_QUILT_PATCHES = "${S}/debian/patches-freetype"
 do_debian_patch_prepend() {
 	rm -rf ${DEBIAN_UNPACK_DIR}/.pc
 }
+SRCREV = "c5d0a685c3b4b976fa6c335f518e29b2fea89be8"

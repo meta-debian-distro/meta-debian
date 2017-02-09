@@ -87,3 +87,4 @@ SRC_URI += " \
            file://run-ptest \
            file://Makefile \
 "
+SRCREV = "AUTO"

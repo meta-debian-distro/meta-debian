@@ -182,3 +182,4 @@ PACKAGES += "${PN}-man"
 FILES_${PN}-man = "${datadir}/man"
 
 BBCLASSEXTEND = "nativesdk"
+SRCREV = "42658480c9a29ccbfcc13ae0df159fdab9a1ca64"

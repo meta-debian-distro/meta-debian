@@ -54,3 +54,4 @@ DPR = "0"
 SRC_URI += " \
 	file://sysroot-arg.patch \
 "
+SRCREV = "84615c237a0090a9b38fca1f3c60fc2fec15a846"

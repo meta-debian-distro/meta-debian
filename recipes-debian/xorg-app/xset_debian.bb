@@ -36,3 +36,4 @@ DEPENDS += "libxext libxmu libxau"
 
 S = "${DEBIAN_UNPACK_DIR}/${PN}"
 EXTRA_OECONF = "--without-xf86misc --without-fontcache"
+SRCREV = "c86bab69cb1d17627a397ac81047348bcb050317"
