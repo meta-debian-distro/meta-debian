@@ -28,3 +28,4 @@ SRC_URI += "\
 # Remove patch which has already applied in new version of source code
 SRC_URI_remove = "file://readline-dispatch-multikey.patch"
 
+SRCREV = "d821ab19347d92bcd877dd5d67a13d43c3d93f76"

@@ -111,3 +111,4 @@ ${PN}-module-list-util \
 ${PN}-module-strict \
 ${PN}-module-vars \
 "
+SRCREV = "1a62c0936b51dddb35404c5226d5ad5433d741ec"

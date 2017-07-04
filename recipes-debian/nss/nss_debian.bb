@@ -18,3 +18,4 @@ SRC_URI += "\
     file://nss-no-rpath-for-cross-compiling.patch \                             
     file://nss-fix-incorrect-shebang-of-perl.patch \                            
 "
+SRCREV = "df0f870914f089a49ebe6f84bb362de624234be8"

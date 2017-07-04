@@ -67,3 +67,4 @@ do_install_ptest() {
 	install ${B}/examplesh  ${D}${PTEST_PATH}
 	install ${B}/minigzipsh ${D}${PTEST_PATH}
 }
+SRCREV = "107faa160af21c627a53078ed94951fe49aa6ba1"

@@ -8,7 +8,7 @@ operating in a compatibility mode emulating a standard mouse) can be \
 handled by the normal evdev or mouse drivers, this driver allows more \
 advanced features of the touchpad to become available."
 
-SRCREV = "934bc0012f948c52aadc8eda912f7728fb7394a2"
+SRCREV = "3676a6e5b9b12f5e0fe193d6d9fb673d4a31ca97"
 PV = "0.15.2+git${SRCPV}"
 PR = "${INC_PR}.1"
 

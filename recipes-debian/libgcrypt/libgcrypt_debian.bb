@@ -13,3 +13,4 @@ DPN = "libgcrypt20"
 SRC_URI += " \
            file://add-pkgconfig-support.patch \
            file://libgcrypt-fix-building-error-with-O2-in-sysroot-path.patch"
+SRCREV = "1396d63bb70a15615124e3e0f99d00f3cab6d5ba"

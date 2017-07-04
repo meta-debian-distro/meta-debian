@@ -20,3 +20,4 @@ do_install() {
         install -m 0644 ${S}/debian/10gsfonts.conf ${D}/${sysconfdir}/ghostscript/fontmap.d/
 }
 FILES_${PN} += "/usr/share/fonts/"
+SRCREV = "8495223c9e1fad922ce0fb62a4fde902afd8f1bd"

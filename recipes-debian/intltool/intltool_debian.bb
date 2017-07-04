@@ -29,3 +29,4 @@ SRC_URI += "file://intltool-nowarn.patch \
            file://uclibc.patch \
            ${NATIVEPATCHES} \
            "
+SRCREV = "539cca4f9e236cbfe7aeb786966c482e54fa18fd"

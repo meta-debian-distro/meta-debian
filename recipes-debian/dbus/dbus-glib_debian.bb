@@ -10,3 +10,4 @@ SRC_URI[sha256sum] = "a5bb42da921f51c28161e0e54a5a8241d94a1c0499a14007150e9ce743
 inherit debian-package
 DEBIAN_SECTION = "devel"
 DPR = "0"
+SRCREV = "696d85ca3cbf2e5f1e71d361708930843fec0cdf"

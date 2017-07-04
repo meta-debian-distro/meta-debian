@@ -51,3 +51,4 @@ FILES_${PN}-xx = "${libdir}/libgnutlsxx.so.*"
 LDFLAGS_append_libc-uclibc += " -pthread"
 
 BBCLASSEXTEND = "native nativesdk"
+SRCREV = "4b960c6475fd4cdc61a466921d2acba0e137b40f"

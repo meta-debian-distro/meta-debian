@@ -181,3 +181,4 @@ pkg_postinst_${PN} () {
 }
 
 BBCLASSEXTEND = "native nativesdk"
+SRCREV = "2d0bfde4cd747bdc1f5884be2232ef13d2bd6fda"

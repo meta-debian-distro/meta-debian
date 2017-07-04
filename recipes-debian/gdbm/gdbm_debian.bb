@@ -32,3 +32,4 @@ SRC_URI += " \
 do_configure_prepend() {
 	sed -i -e "s/-lgdbm//g" ${S}/Makefile.in
 }
+SRCREV = "001922b98226ed515b62b5a39495db85b2bc9662"

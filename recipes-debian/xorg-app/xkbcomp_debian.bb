@@ -36,3 +36,4 @@ debian_patch_abnormal() {
 }
 
 S = "${DEBIAN_UNPACK_DIR}/${PN}"
+SRCREV = "9842b40facdfcda173b4b85f437ec57ebb39831e"

@@ -32,3 +32,4 @@ DPN = "x11-utils"
 DEBIAN_PATCH_TYPE = "quilt"
 
 S = "${DEBIAN_UNPACK_DIR}/${PN}"
+SRCREV = "b91981251d5afa1cec3800195edfe895bd5a951e"

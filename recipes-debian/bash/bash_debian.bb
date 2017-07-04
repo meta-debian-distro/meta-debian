@@ -38,3 +38,4 @@ DPR = "0"
 SRC_URI += "\
 	file://run-ptest \
 "
+SRCREV = "b4e26b776bf77ce20eadbf6df18663cdf91ba3a5"

@@ -34,3 +34,4 @@ DPR = "0"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "645e7a2b7190f1699e510b18541c6c63a42b0206"

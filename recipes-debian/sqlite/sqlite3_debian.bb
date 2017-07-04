@@ -51,3 +51,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_sqlite3"
 TEST_DIR = "${B}/native-test"
+SRCREV = "c70696ead7dd1537f6ca109438e21d50dd5d40df"

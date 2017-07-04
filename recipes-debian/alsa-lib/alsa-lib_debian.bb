@@ -21,3 +21,4 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=7fbc338309ac38fefcd64b04bb903e34"
 SRC_URI += " \
 file://Check-if-wordexp-function-is-supported_debian.patch \
 "
+SRCREV = "08cacaf22b9e1e8cac969ffb780ea1489bdc6ead"

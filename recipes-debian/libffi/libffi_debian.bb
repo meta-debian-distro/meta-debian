@@ -12,3 +12,4 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=3610bb17683a0089ed64055416b2ae1b"
 SRC_URI += " \
 file://fix-libffi.la-location.patch \
 "
+SRCREV = "3cc10cf7e625b3520265cea8d07029509d3aeeee"

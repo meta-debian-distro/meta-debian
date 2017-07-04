@@ -30,3 +30,4 @@ SRC_URI += "\
 SRC_URI += " \
 	file://restore-python-include-flag.patch \
 "
+SRCREV = "7f4e1eb7cbc47f3085fc11063f3c20d7687339d2"

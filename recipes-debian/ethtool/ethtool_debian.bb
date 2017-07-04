@@ -50,3 +50,4 @@ do_install_prepend() {
 	install ${S}/debian/ethtool.if-up ${D}${sysconfdir}/network/if-up.d/ethtool
 	install ${S}/debian/ethtool.if-pre-up ${D}${sysconfdir}/network/if-pre-up.d/ethtool
 }
+SRCREV = "bb474b5bf64577be271fba4b65d9e58a05844dc5"

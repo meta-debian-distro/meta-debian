@@ -26,3 +26,4 @@ do_configure_prepend() {
 inherit autotools
 
 BBCLASSEXTEND = "native nativesdk"
+SRCREV = "c4d9498fe66f052c398d7184b5302e183f9a2247"

@@ -31,3 +31,4 @@ DEBIAN_SECION = "x11"
 DPR = "0"
 
 DEBIAN_PATCH_TYPE = "nopatch"
+SRCREV = "b1afd746d253c9f86d19cd1cd5f51cc0b90898dc"
