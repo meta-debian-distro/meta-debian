@@ -23,3 +23,4 @@ file://acl-fix-the-order-of-expected-output-of-getfacl.patch \
 file://relative-libdir.patch;striplevel=0 \
 file://add-missing-configure.ac.patch \
 "
+SRC_REV="83f8763f36ab7d42a0feb13af8c7e383a2692671"

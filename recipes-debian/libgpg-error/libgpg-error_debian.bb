@@ -62,3 +62,4 @@ do_compile_prepend() {
 	cp ${S}/src/syscfg/lock-obj-pub.$TUPLE.h \
 	  ${S}/src/syscfg/lock-obj-pub.$TARGET_FILE.h
 }
+SRC_REV="1158979da2e8141d5709fec3a88ba550fb22276b"

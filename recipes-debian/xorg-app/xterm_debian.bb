@@ -32,3 +32,4 @@ do_configure() {
 }
 
 FILES_${PN} += "${libdir}"
+SRC_REV="266fa337112c800de121ea9a1150f9075adefda9"

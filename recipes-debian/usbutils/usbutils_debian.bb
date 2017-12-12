@@ -42,3 +42,4 @@ inherit debian-package
 
 DEBIAN_SECTION = "utils"
 DPR = "0"
+SRC_REV="53c4d0c713a8c511c11703f38b159cceb0dfa6b8"

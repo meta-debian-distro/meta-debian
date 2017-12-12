@@ -22,3 +22,4 @@ SRC_URI += "\
  file://configure.patch \
  file://amd64.patch \
 "
+SRC_REV="95126e8801970986ff1848000c634256cadfd502"

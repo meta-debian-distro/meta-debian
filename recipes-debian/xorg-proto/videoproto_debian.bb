@@ -26,3 +26,4 @@ DPN = "x11proto-video"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="09bf51b110c25bac7a9798b0a29ffe2f69ad4315"

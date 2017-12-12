@@ -12,3 +12,4 @@ DEBIAN_SECTION = "admin"
 
 # To fix QA issue that the file have not ship to any package
 FILES_${PN} += "${bindir}/dbus-run-session"
+SRC_REV="5652c3502b0596ad6a715d831cbbb949b8f4c81d"

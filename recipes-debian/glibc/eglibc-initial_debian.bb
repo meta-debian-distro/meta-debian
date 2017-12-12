@@ -23,3 +23,4 @@ do_configure () {
                 --with-kconfig=${STAGING_BINDIR_NATIVE} \
                 --enable-hacker-mode --enable-add-ons=nptl,libidn,ports
 }
+SRC_REV="e2c178d0fc01a2909d14d3b64f2a285c06990310"

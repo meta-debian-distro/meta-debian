@@ -121,3 +121,4 @@ do_install() {
 	   rmdir --ignore-fail-on-non-empty ${D}/lib
 	fi
 }
+SRC_REV="2d722010a37a8f2207ad81913a2b47d9892db255"

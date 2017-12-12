@@ -28,3 +28,4 @@ EXTRA_OECONF = "--disable-examples"
 inherit debian-package
 DEBIAN_SECTION = "libs"
 DPR = "0"
+SRC_REV="93a36f7c7d5eb74270b3fe10b4c405670c5d480f"

@@ -32,3 +32,4 @@ DPN = "x11proto-composite"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="c20a01cad990a0409ba6b679072799745e672c4f"

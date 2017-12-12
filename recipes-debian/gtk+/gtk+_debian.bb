@@ -54,3 +54,4 @@ do_configure_prepend() {
 	sed -i -e "s/GOBJECT_INTROSPECTION_CHECK/#GOBJECT_INTROSPECTION_CHECK/g" ${S}/configure.ac
 	sed -i -e "s/GTK_DOC_CHECK/#GTK_DOC_CHECK/g" ${S}/configure.ac
 }
+SRC_REV="8a8abefcd4e790239b1f9af7e1dd6b2953e8546e"

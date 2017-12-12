@@ -38,3 +38,4 @@ FILES_${PN}-dev += "${base_libdir}/*.so ${base_libdir}/*.la"
 inherit debian-package
 DPR = "0"
 DPN = "libusb-1.0"
+SRC_REV="6ff80b20c82fc76d4f634dcfd0a1f31c27de8115"

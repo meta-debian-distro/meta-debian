@@ -21,3 +21,4 @@ DEBIAN_PATCH_TYPE = "quilt"
 DEPENDS += "libxmu virtual/libx11 xbitmaps libxcursor"
 
 S = "${DEBIAN_UNPACK_DIR}/${PN}"
+SRC_REV="c86bab69cb1d17627a397ac81047348bcb050317"

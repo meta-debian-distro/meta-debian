@@ -46,3 +46,4 @@ file://libtool-rpath-fix_debian.patch \
 file://binutils-armv5e.patch \
 file://binutils-xlp-support_debian.patch \
 "
+SRC_REV="612e69aa722e6fb78bd25704e3afd51bc4bbbd79"

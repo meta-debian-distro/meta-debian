@@ -33,3 +33,4 @@ DPN = "x11-xserver-utils"
 DEBIAN_PATCH_TYPE = "quilt"
 
 S = "${DEBIAN_UNPACK_DIR}/${PN}"
+SRC_REV="c86bab69cb1d17627a397ac81047348bcb050317"

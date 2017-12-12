@@ -16,3 +16,4 @@ SRC_URI += " \
 file://relative-libdir.patch;striplevel=0 \
 file://run-ptest \
 "
+SRC_REV="c31640fd55f8a6c166c0d35b4cbde8aab152ef0e"

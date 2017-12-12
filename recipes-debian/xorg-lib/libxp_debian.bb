@@ -17,3 +17,4 @@ inherit debian-package
 DPR = "0"
 DEBIAN_PATCH_TYPE = "quilt"
 LIC_FILES_CHKSUM = "file://COPYING;md5=9504a1264f5ddd4949254a57c0f8d6bb"
+SRC_REV="78536d0a62ed859e49dd0ca49409d9260c5cb563"

@@ -29,3 +29,4 @@ SRC_URI += "\
 do_configure() {                                                                
         oe_runconf                                                              
 }
+SRC_REV="075b43e0f166926a13af05dc9b9424232bdd086c"

@@ -19,3 +19,4 @@ FILES_${PN} = "\
 DEBIAN_PATCH_TYPE = "nopatch"
 
 PACKAGES = "${PN}"
+SRC_REV="f74c58d22682ae10d0da6e63883fcb7f180f4c12"

@@ -24,3 +24,4 @@ inherit debian-package
 DPR = "0"
 DPN = "x11proto-gl"
 DEBIAN_PATCH_TYPE = "quilt"
+SRC_REV="48216677fbdb92b4181c68649bb3f9a4f1a1478d"

@@ -209,3 +209,4 @@ do_install_ptest () {
 }
 
 RDEPENDS_${PN}-ptest += "${PN}-misc make perl perl-module-filehandle bc"
+SRC_REV="41abd7050779a9d07824d56bd2c008038dcbf05c"

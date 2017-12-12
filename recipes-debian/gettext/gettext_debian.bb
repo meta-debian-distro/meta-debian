@@ -16,3 +16,4 @@ SRC_URI += " \
 file://parallel.patch \
 file://do-not-use-git-version-gen.patch \
 "
+SRC_REV="360269e4876bdf477e3b4ed5b8019ff7208325aa"

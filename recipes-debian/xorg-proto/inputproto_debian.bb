@@ -29,3 +29,4 @@ DPN = "x11proto-input"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="afd03b93f3fbf50db2286ae64dd870e93054b73b"

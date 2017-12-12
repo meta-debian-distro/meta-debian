@@ -76,3 +76,4 @@ SRC_URI += "\
 	file://guess-fix_debian.patch \
 	file://makefile_debian.patch \
 "
+SRC_REV="9196166de3fff9e3f4dffba6c3ac7ba68a5deafa"

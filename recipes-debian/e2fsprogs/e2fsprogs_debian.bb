@@ -41,3 +41,4 @@ do_configure_prepend() {
 # Remove option to disable libuuid to avoid error external uuid library
 # not found. 
 EXTRA_OECONF_remove = "--disable-libuuid --disable-uuidd"
+SRC_REV="3b5dcb0c6f7682fd3b843136a7710d7f3f69341e"

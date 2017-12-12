@@ -23,3 +23,4 @@ SRC_URI += " \
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="3d8ccbe2e6ade6c45bb5b4c3a983dad928c8898a"

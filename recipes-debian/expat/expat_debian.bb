@@ -10,3 +10,4 @@ SRC_URI[sha256sum] = "823705472f816df21c8f6aa026dd162b280806838bb55b3432b0fb1fcc
 inherit debian-package
 DPR = "0"
 DEBIAN_SECTION = "libs"
+SRC_REV="f35078f0c5d2cd7def68479d8901731fb80c20d9"

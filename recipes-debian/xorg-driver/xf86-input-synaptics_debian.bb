@@ -30,3 +30,4 @@ DEBIAN_PATCH_TYPE = "quilt"
 
 # Fix QA issue file not shipped to any package
 FILES_${PN} += "${datadir}"
+SRC_REV="3676a6e5b9b12f5e0fe193d6d9fb673d4a31ca97"

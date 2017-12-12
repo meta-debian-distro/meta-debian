@@ -32,3 +32,4 @@ DPR = "0"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="e35a3a824b60cd236ce08565e86d5ac6fde51da3"

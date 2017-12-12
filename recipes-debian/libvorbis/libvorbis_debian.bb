@@ -33,3 +33,4 @@ EXTRA_OECONF = "--with-ogg-libraries=${STAGING_LIBDIR} \
 inherit debian-package
 DEBIAN_SECTION = "libs"
 DPR = "0"
+SRC_REV="568c8bb2d37c0870543759ab0a12312e1a65e08c"

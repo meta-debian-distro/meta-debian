@@ -47,3 +47,4 @@ DPN = "xft"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="6bc784a57691b58d956f4cb2d5707950e1ccfc06"

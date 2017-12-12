@@ -49,3 +49,4 @@ SRC_URI += " \
 	file://gst-plugins-base-tremor.patch \
 	file://configure.ac-fix-subparse-plugin.patch \
 "
+SRC_REV="1f03ae777b2473518853c84a1c38855c0324316d"

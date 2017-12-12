@@ -57,3 +57,4 @@ inherit debian-package
 DEBIAN_SECTION = "libs"
 DPR = "0"
 DPN = "gstreamer0.10"
+SRC_REV="e082ca5cb3d10032bd3cfe1588bc24fb00709ca7"

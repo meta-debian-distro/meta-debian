@@ -35,3 +35,4 @@ SRC_URI += "\
  file://ptest-paths.patch \
  file://uclibc.patch \
 "
+SRC_REV="430ce8b90816353754135f906c187d0ca3db193c"

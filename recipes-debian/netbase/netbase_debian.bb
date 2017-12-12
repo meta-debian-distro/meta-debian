@@ -12,3 +12,4 @@ LIC_FILES_CHKSUM = "file://debian/copyright;md5=3dd6192d306f582dee7687da3d8748ab
 SRC_URI += " \
 file://hosts \
 "
+SRC_REV="866c261f90fd01cfa495c05a0f4260b6f008ee27"

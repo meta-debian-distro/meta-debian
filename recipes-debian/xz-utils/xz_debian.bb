@@ -25,3 +25,4 @@ do_configure_prepend() {
 	cd ${S}
 	./autogen.sh && cd -
 }
+SRC_REV="6058460036d5e91de480480c464bd8629abcf96f"

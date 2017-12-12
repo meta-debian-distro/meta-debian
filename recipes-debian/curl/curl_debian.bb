@@ -78,3 +78,4 @@ inherit debian-package
 
 DEBIAN_SECTION = "web"
 DPR = "0"
+SRC_REV="fb9645af3ed45cfb0d3a5295b79993e03535d017"

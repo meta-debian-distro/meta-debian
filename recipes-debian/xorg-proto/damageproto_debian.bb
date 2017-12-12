@@ -29,3 +29,4 @@ DPN = "x11proto-damage"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="6d7cfe14e835e0714835ef47b6636bf0574564a1"

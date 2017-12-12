@@ -13,3 +13,4 @@ inherit debian-package
 DPR = "0"
 DEBIAN_SECTION = "libs"
 DEBIAN_PATCH_TYPE = "quilt"
+SRC_REV="b3ce78f7bcac92ba4202526ff8b544f9415a83b4"

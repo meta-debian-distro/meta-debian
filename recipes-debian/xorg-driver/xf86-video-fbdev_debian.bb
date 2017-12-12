@@ -23,3 +23,4 @@ DPN = "xserver-xorg-video-fbdev"
 DEBIAN_PATCH_TYPE = "quilt"
 
 LICENSE = "MIT-style"
+SRC_REV="e0d89a69a0e25a88e5ff630ccd8112b554e92ae1"

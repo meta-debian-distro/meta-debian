@@ -55,3 +55,4 @@ do_install_append () {
 #
 
 DPR = "0"
+SRC_REV="dc1ab4ca6435d83939f5cbe8686105733e39d842"

@@ -37,3 +37,4 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=d559fb26e129626022e052a5e6e0e123"
 
 # there is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="be5d32c60656690448f7e01081a89afb2c3fb1e9"

@@ -32,3 +32,4 @@ DPN = "xfonts-utils"
 DEBIAN_PATCH_TYPE = "nopatch"
 
 S = "${DEBIAN_UNPACK_DIR}/mkfontscale"
+SRC_REV="47c006fd95f1247f636b26224a3e47ead9cb667c"

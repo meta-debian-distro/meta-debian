@@ -65,3 +65,4 @@ inherit debian-package
 
 DEBIAN_SECTION = "libs"
 DPR = "0"
+SRC_REV="14c4c57ce26f23712c7fb3d3ba3386cba2499dbe"

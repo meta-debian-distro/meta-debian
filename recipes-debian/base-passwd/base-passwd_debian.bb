@@ -25,3 +25,4 @@ SRC_URI += "\
 	file://disable-docs_edited.patch\
 	file://remove_cdebconf.patch\
 "
+SRC_REV="569b9fda389de9821b0f54cc6564c6588b516eaf"
