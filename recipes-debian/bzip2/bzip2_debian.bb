@@ -65,3 +65,4 @@ RDEPENDS_libbz2-staticdev = "libbz2-dev (= ${EXTENDPKGV})"
 
 PROVIDES_append_class-native = " bzip2-replacement-native"
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="8b13d3db201524d0bb6805e58cd690510c538867"

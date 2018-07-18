@@ -71,3 +71,4 @@ ALTERNATIVE_LINK_NAME[yacc] = "${bindir}/yacc"
 ALTERNATIVE_TARGET[yacc] = "${bindir}/bison.yacc"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="5769c01ff36cc64d2b583516947379636561036c"

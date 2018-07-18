@@ -88,3 +88,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_prelink"
 TEST_DIR = "${B}/native-test"
+SRC_REV="27c98a4727400064f8bede1104a90d13857336a1"

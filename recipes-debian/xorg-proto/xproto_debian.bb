@@ -22,3 +22,4 @@ DPN = "x11proto-core"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="1cd6b9a1b19ff0da3906b92b1f46b3db11298947"

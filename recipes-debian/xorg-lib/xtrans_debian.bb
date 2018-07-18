@@ -28,3 +28,4 @@ BBCLASSEXTEND = "native nativesdk"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="d157146861ee22e79c162f0252d298daa5f9cd0f"

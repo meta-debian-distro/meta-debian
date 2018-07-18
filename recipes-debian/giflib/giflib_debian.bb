@@ -35,3 +35,4 @@ DEBIANNAME_${PN}-dev = "libgif-dev"
 RPROVIDES_${PN}-dev = "libgif-dev"
 
 BBCLASSEXTEND = "native"
+SRC_REV="515458c730ae6d6d3d322c61eedbf3b667a4b471"

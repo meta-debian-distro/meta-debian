@@ -18,3 +18,4 @@ DEPENDS = "util-macros virtual/libx11 libxext xextproto scrnsaverproto"
 DEBIAN_PATCH_TYPE = "nopatch"
 
 inherit autotools pkgconfig
+SRC_REV="1ea69ff8d77148f49e8139399afdacdb37b1092d"

@@ -59,3 +59,4 @@ do_install_append() {
 FILES_${PN} = "${sysconfdir} ${bindir} ${datadir}/applications ${datadir}/icons \
 		${datadir}/menu ${datadir}/pixmaps"
 FILES_${PN}-doc = "${docdir} ${mandir}"
+SRC_REV="266fa337112c800de121ea9a1150f9075adefda9"

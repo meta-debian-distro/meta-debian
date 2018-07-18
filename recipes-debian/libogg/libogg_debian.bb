@@ -20,3 +20,4 @@ DEBIAN_PATCH_TYPE = "nopatch"
 LICENSE = "BSD"
 LIC_FILES_CHKSUM = "file://COPYING;md5=db1b7a668b2a6f47b2af88fb008ad555 \
                     file://include/ogg/ogg.h;beginline=1;endline=11;md5=eda812856f13a3b1326eb8f020cc3b0b"
+SRC_REV="b72d1d702fea43d3940210545bf238bf163b3b7a"

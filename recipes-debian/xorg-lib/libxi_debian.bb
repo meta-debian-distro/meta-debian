@@ -27,3 +27,4 @@ DEBIAN_PATCH_TYPE = "nopatch"
 
 DEBIANNAME_${PN} = "${PN}6"
 DEBIANNAME_${PN}-dbg = "${PN}6-dbg"
+SRC_REV="725c2bcaf9542a89155075cddae1eee3a3685a20"

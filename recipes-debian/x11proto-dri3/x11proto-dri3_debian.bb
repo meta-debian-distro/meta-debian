@@ -20,3 +20,4 @@ inherit autotools pkgconfig
 # ${PN} is empty so we need to tweak -dev and -dbg package dependencies
 RDEPENDS_${PN}-dev = ""
 RRECOMMENDS_${PN}-dbg = "${PN}-dev (= ${EXTENDPKGV})"
+SRC_REV="160a15e881f2ea91877e215100fa951ea8dbebae"

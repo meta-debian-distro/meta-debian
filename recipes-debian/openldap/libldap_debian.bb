@@ -47,3 +47,4 @@ do_install_append () {
 PKG_${PN} = "${PN}-2.4-2"
 
 BBCLASSEXTEND = "native"
+SRC_REV="b7ce81434d75598540b6277e6e1d8523aa07deb7"

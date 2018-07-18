@@ -56,3 +56,4 @@ DEBIAN_PATCH_TYPE = "quilt"
 
 # Correct the package name follow Debian
 DEBIANNAME_${PN}-dbg = "${PN}6-dbg"
+SRC_REV="860a5a884bfc0f9a63557a70add3c16ee98b0e61"

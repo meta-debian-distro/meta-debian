@@ -82,3 +82,4 @@ DEBIANNAME_${PN} = "${PN}2"
 DEBIANNAME_${PN}-bin = "${PN}2-bin"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="2d599281267c93dfaf547ab2329d8df00bbd32f1"

@@ -26,3 +26,4 @@ DPN = "x11proto-scrnsaver"
 
 #There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="4bb229ab63ce5c70f99e5c41c02f1a71843546eb"

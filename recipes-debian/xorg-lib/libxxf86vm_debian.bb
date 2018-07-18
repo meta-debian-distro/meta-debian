@@ -25,3 +25,4 @@ XORG_PN = "libXxf86vm"
 #There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
 
+SRC_REV="fa9d9248c8291a8d7cd2f7824cbab73061ee871a"

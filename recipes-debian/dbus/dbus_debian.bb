@@ -207,3 +207,4 @@ do_install_class-nativesdk() {
 	fi
 }
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="5652c3502b0596ad6a715d831cbbb949b8f4c81d"

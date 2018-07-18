@@ -126,3 +126,4 @@ pkg_postinst_${PN}-core(){
 		ln -sf ld.so.1 ld-lsb-ppc32.so.3
 	fi
 }
+SRC_REV="9af66f6269b9acf8ca94de3e75e6baa1a82bc7e9"

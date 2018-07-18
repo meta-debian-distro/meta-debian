@@ -27,3 +27,4 @@ do_configure_prepend () {
 }
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="9f50d5fd9ec31f1679f4268f5faf5205ec6b71b4"

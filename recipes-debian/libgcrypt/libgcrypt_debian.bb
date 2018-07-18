@@ -74,3 +74,4 @@ DEBIANNAME_${PN}-dbg = "libgcrypt20-dbg"
 DEBIANNAME_${PN}-doc = "libgcrypt20-doc"
 
 BBCLASSEXTEND = "native"
+SRC_REV="bd6bd718e443c8359d311ce3d6032206b6dd5dad"

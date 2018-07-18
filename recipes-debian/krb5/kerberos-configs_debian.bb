@@ -37,3 +37,4 @@ FILES_krb5-config = " \
 "
 
 RDEPENDS_krb5-config += "bind9-host"
+SRC_REV="e9785917647154de7344eb19f7812293a9bd0de8"

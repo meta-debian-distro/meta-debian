@@ -28,3 +28,4 @@ DPN = "xserver-xorg-input-evdev"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "quilt"
+SRC_REV="364c9efd2a88018df1e90cda4de9f19b5e3a7f03"

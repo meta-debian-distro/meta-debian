@@ -45,3 +45,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_gperf"
 TEST_DIR = "${B}/native-test"
+SRC_REV="b5c969aa92f79de7b30320e453887c69177077ba"

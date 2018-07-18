@@ -49,3 +49,4 @@ do_install_append () {
 # valgrind requires debug files from glibc to run
 INSANE_SKIP_${PN} += "debug-deps"
 RDEPENDS_${PN} += "glibc-dbg"
+SRC_REV="6808ef51829172ee5f712affa67173fe28e0de72"

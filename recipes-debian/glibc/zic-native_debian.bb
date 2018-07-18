@@ -52,3 +52,4 @@ do_install() {
 	install -d ${D}${sbindir}
 	install -m 0755 ${B}/timezone/zic ${D}${sbindir}
 }
+SRC_REV="e2c178d0fc01a2909d14d3b64f2a285c06990310"

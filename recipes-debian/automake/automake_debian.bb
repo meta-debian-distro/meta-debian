@@ -70,3 +70,4 @@ do_install_append () {
 
 FILES_${PN} += "${datadir}/automake* ${datadir}/aclocal*"
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="871d88ae37bd6c02f312c37bfe48e087332e6090"

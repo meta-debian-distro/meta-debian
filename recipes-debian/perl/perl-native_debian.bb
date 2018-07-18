@@ -141,3 +141,4 @@ EOF
 
 # Fix the path in sstate
 SSTATE_SCAN_FILES += "*.pm *.pod *.h *.pl *.sh"
+SRC_REV="adcdb12366c3bc038462d49699ff3392cc1bd264"

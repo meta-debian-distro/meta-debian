@@ -153,3 +153,4 @@ CONFFILES_${PN} = "${sysconfdir}/debian_version \
                    ${sysconfdir}/issue.net \
                   "
 CONFFILES_${PN}-debian = "${sysconfdir}/dpkg/origins/debian"
+SRC_REV="35ea944110736314637e795527f0c27d6e32ba57"

@@ -28,3 +28,4 @@ PROVIDES_append_class-native = " chrpath-replacement-native"
 NATIVE_PACKAGE_PATH_SUFFIX = "/${PN}"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="7e3e748db8744847aca2ec1396e0d3b2a7939dae"

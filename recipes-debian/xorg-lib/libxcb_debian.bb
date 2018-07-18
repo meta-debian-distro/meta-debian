@@ -49,3 +49,4 @@ FILES_${PN}-dev = " \
     ${libdir}/pkgconfig/xcb.pc \
     ${libdir}/*.la \
 "
+SRC_REV="3d8ccbe2e6ade6c45bb5b4c3a983dad928c8898a"

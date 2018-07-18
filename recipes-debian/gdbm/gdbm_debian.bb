@@ -28,3 +28,4 @@ do_configure_prepend() {
 
 # provide libgdbm-dev packages
 RPROVIDES_${PN}-dev = "lib${PN}-dev"
+SRC_REV="001922b98226ed515b62b5a39495db85b2bc9662"

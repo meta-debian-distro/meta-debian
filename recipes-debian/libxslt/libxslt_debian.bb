@@ -48,3 +48,4 @@ DEBIANNAME_${PN}-bin = "xsltproc"
 DEBIANNAME_${PN} = "libxslt1.1"
 
 BBCLASSEXTEND = "native"
+SRC_REV="83b28829cadf057585ea74b1e7d65c5f9fd23962"

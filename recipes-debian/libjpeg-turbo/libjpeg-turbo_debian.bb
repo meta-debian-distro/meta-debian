@@ -43,3 +43,4 @@ DEBIANNAME_libturbojpeg-dev = "libturbojpeg1-dev"
 DEBIAN_NOAUTONAME_${PN}-progs = "1"
 
 BBCLASSEXTEND = "native"
+SRC_REV="e876255e17e074da95c7123d9e37e46cc9753ed4"

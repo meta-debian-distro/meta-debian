@@ -27,3 +27,4 @@ do_install_append() {
 }
 FILES_${PN} += "${libdir}/vdpau/libvdpau_trace.so.*"
 FILES_${PN}-dbg += "${libdir}/vdpau/.debug"
+SRC_REV="d98fd14130fe79ed8b04cb1874a8e37185281d35"

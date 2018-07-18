@@ -17,3 +17,4 @@ libtool_sysroot_preprocess () {
         rm -rf ${SYSROOT_DESTDIR}${datadir}/aclocal/*                           
         rm -rf ${SYSROOT_DESTDIR}${datadir}/libtool/config/*                    
 } 
+SRC_REV="49abf1fe2200b9338e2f3d6168be4804db950f14"

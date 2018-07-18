@@ -195,3 +195,4 @@ SYSTEMD_SERVICE_${PN}-fstrim = "fstrim.timer fstrim.service"
 SYSTEMD_AUTO_ENABLE_${PN}-fstrim = "disable"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="359efd25841c380dcda7f42f9e31b5a4e071b8f9"

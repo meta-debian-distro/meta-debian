@@ -43,3 +43,4 @@ FILES_${PN}-icu = "${libdir}/libharfbuzz-icu${SOLIBS}"
 DEBIANNAME_${PN} = "lib${PN}0b"
 
 BBCLASSEXTEND = "native"
+SRC_REV="c695caee032c566496c7c0cd96f502ced31afcb8"

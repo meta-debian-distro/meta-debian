@@ -40,3 +40,4 @@ LEAD_SONAME = "liblttng-ust.so.*"
 
 # Correct the package name
 DEBIANNAME_lib${PN}-ctl = "lib${PN}-ctl2"
+SRC_REV="f09aa22bf5dd86dd6f4a2884f41698636fca8ec7"

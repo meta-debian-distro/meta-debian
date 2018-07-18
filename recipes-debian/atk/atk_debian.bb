@@ -32,3 +32,4 @@ DEBIANNAME_${PN}-doc = "libatk1.0-doc"
 DEBIANNAME_${PN}-dbg = "libatk1.0-dbg"
 
 BBCLASSEXTEND = "native"
+SRC_REV="9ece589ead805be988217cbc104083258e46e86e"

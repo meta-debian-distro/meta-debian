@@ -93,3 +93,4 @@ do_populate_sysroot[sstate-outputdirs] = "${STAGING_DIR_TCBOOTSTRAP}/"
 do_evacuate_scripts () {
 	:
 }
+SRC_REV="e2c178d0fc01a2909d14d3b64f2a285c06990310"

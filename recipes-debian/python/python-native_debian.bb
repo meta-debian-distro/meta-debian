@@ -85,3 +85,4 @@ do_install() {
 	# installed in the native sysroot, so disable user site support.
 	sed -i -e 's,^\(ENABLE_USER_SITE = \).*,\1False,' ${D}${libdir}/python${PYTHON_MAJMIN}/site.py
 }
+SRC_REV="42658480c9a29ccbfcc13ae0df159fdab9a1ca64"

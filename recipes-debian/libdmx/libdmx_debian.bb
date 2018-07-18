@@ -24,3 +24,4 @@ do_install_append() {
 }
 PKG_${PN}-dbg = "${PN}1-dbg"
 RDEPENDS_${PN}-dev += "x11proto-dmx-dev libx11-dev"
+SRC_REV="04fc86f4c7cdc441d27962f49c73a4f99808c408"

@@ -54,3 +54,4 @@ EOF
     create_hosts_file
     create_networks_file
 }
+SRC_REV="866c261f90fd01cfa495c05a0f4260b6f008ee27"

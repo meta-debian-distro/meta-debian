@@ -19,3 +19,4 @@ SRC_URI += "file://0001-Generate-relocatable-SDKs.patch"
 do_configure_prepend () {
 	sed -i 's#/usr/local/lib /lib /usr/lib#${SDKPATHNATIVE}/lib ${SDKPATHNATIVE}/usr/lib /usr/local/lib /lib /usr/lib#' ${S}/ld/configure.tgt
 }
+SRC_REV="612e69aa722e6fb78bd25704e3afd51bc4bbbd79"

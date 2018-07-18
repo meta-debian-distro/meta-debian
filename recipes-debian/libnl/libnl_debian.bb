@@ -132,3 +132,4 @@ FILES_${PN}-genl  = " \
 
 RREPLACES_${PN}-genl = "libnl-genl2 libnl-genl-3-200"
 RCONFLICTS_${PN}-genl = "libnl-genl2 libnl-genl-3-200"
+SRC_REV="8cb5468d0ab3e85908748e8ed76130874f36fedd"

@@ -50,3 +50,4 @@ do_compile() {
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="cfa5dd312c08641867c9ae78f11c090285fbd32a"

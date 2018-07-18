@@ -47,3 +47,4 @@ do_install_append() {
 	cp ${WORKDIR}/Makefile.in.in_debian \
 				${D}${datadir}/gettext/po/Makefile.in.in
 }
+SRC_REV="360269e4876bdf477e3b4ed5b8019ff7208325aa"

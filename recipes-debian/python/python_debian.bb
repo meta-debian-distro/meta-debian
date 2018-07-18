@@ -222,3 +222,4 @@ RDEPENDS_lib${BPN}2 += "libpython${PYTHON_MAJMIN}-stdlib"
 RDEPENDS_${PN}-core += "libpython${PYTHON_MAJMIN}-stdlib libpython${PYTHON_MAJMIN}-minimal mime-support"
 
 BBCLASSEXTEND = "nativesdk"
+SRC_REV="42658480c9a29ccbfcc13ae0df159fdab9a1ca64"

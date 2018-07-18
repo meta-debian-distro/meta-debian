@@ -49,3 +49,4 @@ FILES_lib${DPN}-doc = "${mandir}/man3 \
 DEBIANNAME_lib${DPN} = "libcurl3"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="bb9d4e989c1765fb39b46ca3bb1c801dfb82056e"

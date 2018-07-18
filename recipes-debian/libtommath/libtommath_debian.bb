@@ -38,3 +38,4 @@ do_install() {
 DEBIANNAME_${PN}-dev = "libtommath-dev"
 
 FILES_${PN}-dev = "${includedir} ${libdir}/libtommath.so"
+SRC_REV="bcd5c4c9fcfcc12a8c33b11ed1c3958c5e8aa6b9"

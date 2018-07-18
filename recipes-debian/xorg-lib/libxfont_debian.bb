@@ -27,3 +27,4 @@ DEBIAN_PATCH_TYPE = "nopatch"
 
 # Correct the package name follow Debian
 DEBIANNAME_${PN}-dbg = "${PN}1-dbg"
+SRC_REV="6079abe2493ba151475e551f3a85d66143116a7d"

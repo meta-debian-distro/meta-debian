@@ -41,3 +41,4 @@ do_install_append() {
 			${D}${bindir}/gdb-add-index
 	install -m 0755 ${S}/debian/gdbtui ${D}${bindir}
 }
+SRC_REV="02a7c5b5a730cc58840b47fb79931060b8231555"

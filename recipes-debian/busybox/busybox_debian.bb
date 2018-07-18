@@ -353,3 +353,4 @@ do_install_ptest () {
 	cp ${B}/.config      ${D}${PTEST_PATH}/
 	ln -s /bin/busybox   ${D}${PTEST_PATH}/busybox
 }
+SRC_REV="8feca13beb2589cc5463b934c97d5d03b149de05"

@@ -45,3 +45,4 @@ FILES_libvorbisfile = "${libdir}/libvorbisfile.so.*"
 
 # Change name of .deb file according to Debian package name
 DEBIANNAME_${PN} = "libvorbis0a"
+SRC_REV="bdafdbfb23fcb93162ece0ef8eeb85983592c5f3"

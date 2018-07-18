@@ -23,3 +23,4 @@ DPN = "x11proto-xf86dga"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="0cdc0e86f26853ae55e96f49218eee6ae653fc7c"

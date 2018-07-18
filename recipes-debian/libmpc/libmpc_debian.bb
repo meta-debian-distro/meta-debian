@@ -27,3 +27,4 @@ SRC_URI += "\
 "
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="fec2256750be6a4b7cfe14d334cbd72483e702df"

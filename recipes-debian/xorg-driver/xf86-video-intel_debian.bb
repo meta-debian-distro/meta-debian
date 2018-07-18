@@ -47,3 +47,4 @@ do_install_append() {
 	rm -f ${D}${libdir}/libI810XvMC.so
 	rm -f ${D}${libdir}/libIntelXvMC.so
 }
+SRC_REV="89f9990dd871dd01d06097f536ba0e339b988608"

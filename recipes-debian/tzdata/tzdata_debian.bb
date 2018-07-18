@@ -212,3 +212,4 @@ FILES_${PN} += " ${sbindir}				 \
 		${sysconfdir}"
 RDEPENDS_${PN} += "${TZDATA_PACKAGES}"		                                    
 
+SRC_REV="6133d94750f3a311902e3c482da3b610c4d50c24"

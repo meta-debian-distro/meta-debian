@@ -250,3 +250,4 @@ PKG_lib${PN}-tools = "lib${PN}3-tools"
 PKG_lib${PN}-1d = "lib${PN}3-1d"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="887356e9683544c57b9ca5acf5aed34b279abf2d"

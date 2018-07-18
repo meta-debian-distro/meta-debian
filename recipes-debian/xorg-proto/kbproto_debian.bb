@@ -26,3 +26,4 @@ DPN = "x11proto-kb"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="1edce2d62a9a4c54703b014b8bd198578fd6d4b4"

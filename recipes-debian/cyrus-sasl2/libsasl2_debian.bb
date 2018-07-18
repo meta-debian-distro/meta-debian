@@ -71,3 +71,4 @@ FILES_${PN}-dev         += "${libdir}/sasl2/*.so \
 # Correct .deb file name
 DEBIANNAME_${PN}-dev                            = "libsasl2-dev"
 BBCLASSEXTEND = "native"
+SRC_REV="84f9ad4c3f5a95785f93446e10063c320df7786a"

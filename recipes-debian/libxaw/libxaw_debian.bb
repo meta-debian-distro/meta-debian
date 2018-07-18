@@ -19,3 +19,4 @@ EXTRA_OECONF = " \
 	--without-fop \
 	--disable-silent-rules \
 	"
+SRC_REV="f096128a0261d7f654d6832f038cf93048a4ddfe"

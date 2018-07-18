@@ -210,3 +210,4 @@ ALTERNATIVE_TARGET[mkfs.ext2] = "${base_sbindir}/mkfs.ext2.${DPN}"
 ALTERNATIVE_LINK_NAME[tune2fs] = "${base_sbindir}/tune2fs"
 
 BBCLASSEXTEND = "native"
+SRC_REV="3b5dcb0c6f7682fd3b843136a7710d7f3f69341e"

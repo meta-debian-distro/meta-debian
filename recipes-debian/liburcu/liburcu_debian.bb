@@ -21,3 +21,4 @@ CFLAGS_append_libc-uclibc = " -D_GNU_SOURCE"
 
 # Correct the package name
 PKG_${PN} = "${PN}2"
+SRC_REV="e9d117f7f8b27339f9375c05485e8ced2b708207"

@@ -59,3 +59,4 @@ DEBIANNAME_${PN}-doc = "libdbus-glib-1-doc"
 DEBIANNAME_${PN} = "libdbus-glib-1-2"
 
 BBCLASSEXTEND = "native"
+SRC_REV="696d85ca3cbf2e5f1e71d361708930843fec0cdf"

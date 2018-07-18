@@ -31,3 +31,4 @@ DEBIAN_PATCH_TYPE = "nopatch"
 PACKAGES = "${PN}0-dev"
 
 FILES_${PN}0-dev = "${libdir}"
+SRC_REV="ca2b5980eedab51961ccdf511256117f050a6b8d"

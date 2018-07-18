@@ -23,3 +23,4 @@ DEBIANNAME_${PN}-dev = "libjasper-dev"
 DEBIANNAME_${PN} = "libjasper-runtime"
 
 BBCLASSEXTEND = "native"
+SRC_REV="6073eebfb65de0a853bef76a07f2210f3b1ffb29"

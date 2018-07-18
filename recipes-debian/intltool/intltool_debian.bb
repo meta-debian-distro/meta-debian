@@ -42,3 +42,4 @@ export PERL = "${bindir}/env perl"
 PERL_class-native = "/usr/bin/env nativeperl"
 
 BBCLASSEXTEND = "native"
+SRC_REV="539cca4f9e236cbfe7aeb786966c482e54fa18fd"

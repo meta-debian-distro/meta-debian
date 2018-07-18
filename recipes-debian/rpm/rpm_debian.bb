@@ -208,3 +208,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_rpm"
 TEST_DIR = "${B}/native-test"
+SRC_REV="183ed28c8fbd3c2ac1eec26d7b6847c09a4f20cd"
