@@ -63,3 +63,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_pigz"
 TEST_DIR = "${B}/native-test"
+SRC_REV="e6509a90be9e4713214814a3b0b053a9e1d5fa65"

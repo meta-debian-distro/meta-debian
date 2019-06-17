@@ -47,3 +47,4 @@ do_install_ptest() {
 RDEPENDS_${PN}-ptest = "bash coreutils perl perl-module-filehandle perl-module-getopt-std perl-module-posix shadow"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="83f8763f36ab7d42a0feb13af8c7e383a2692671"

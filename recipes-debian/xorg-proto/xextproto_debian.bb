@@ -29,3 +29,4 @@ DPN = "x11proto-xext"
 
 # there is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="0f4ff62abc4f57d90139e6eeb32d431d8f7492df"

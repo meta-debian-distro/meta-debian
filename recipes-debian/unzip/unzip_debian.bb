@@ -50,3 +50,4 @@ do_install() {
 }
 
 BBCLASSEXTEND = "native"
+SRC_REV="cedf61a3d4d2bb10d0fd160dff45e76d1f4bdf40"

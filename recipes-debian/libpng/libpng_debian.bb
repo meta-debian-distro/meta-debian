@@ -50,3 +50,4 @@ FILES_libpng3 = " \
 DEBIAN_NOAUTONAME_libpng3 = "1"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="27561a4bea48e6a4b461c796628601744f89e683"

@@ -30,3 +30,4 @@ DEBIANNAME_${PN}-doc = "lib${PN}-doc"
 DEBIANNAME_${PN} = "lib${DPN}"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="66ee04bc6eb85740a92b0ee57666ff9bd7b07b20"

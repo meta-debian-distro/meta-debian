@@ -23,3 +23,4 @@ DPN = "x11proto-dri2"
 
 #apply debian patch by quilt
 DEBIAN_PATCH_TYPE = "quilt"
+SRC_REV="1bbfd62071db6c331725577759e4490f5a999a64"

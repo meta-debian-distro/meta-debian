@@ -121,3 +121,4 @@ INSANE_SKIP_${PN} = "dev-so"
 INSANE_SKIP_${PN}-cxx = "dev-so"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="a008b972bd88f196819ea63480d1d47b660f71b4"

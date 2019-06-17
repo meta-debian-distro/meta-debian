@@ -77,3 +77,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_pkg-config"
 TEST_DIR = "${B}/native-test"
+SRC_REV="79bf6718eaed9fc55fde6c99d660e49f1028c5b2"

@@ -26,3 +26,4 @@ FILES_lib${PN} = "\
 
 PKG_lib${PN} = "lib${PN}0"
 PKG_${PN}-dev = "lib${PN}-dev"
+SRC_REV="2adacbc3d5c66e72d9ff22f23e586ce5664dcff6"

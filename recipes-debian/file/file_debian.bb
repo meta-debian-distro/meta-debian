@@ -43,3 +43,4 @@ PROVIDES_append_class-native = " file-replacement-native"
 # Don't use NATIVE_PACKAGE_PATH_SUFFIX as that hides libmagic from anyone who
 # depends on file-replacement-native.
 bindir_append_class-native = "/file-native"
+SRC_REV="653a34a5181ffb23a1dcdb73455fcfa7b678dd30"

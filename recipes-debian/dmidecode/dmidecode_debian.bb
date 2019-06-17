@@ -23,3 +23,4 @@ do_unpack_extra() {
 	sed -i -e '/^prefix/s:/usr/local:${exec_prefix}:' ${S}/Makefile
 }
 addtask unpack_extra after do_unpack before do_patch
+SRC_REV="3757afdb24545178a04cd9b72abb8a8a0320ae56"

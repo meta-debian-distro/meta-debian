@@ -111,3 +111,4 @@ if [ -n "$D" ]; then
 fi
 ${sbindir}/update-passwd
 }
+SRC_REV="569b9fda389de9821b0f54cc6564c6588b516eaf"

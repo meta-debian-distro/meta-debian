@@ -33,3 +33,4 @@ SRC_URI_DEBIAN_TEST =" \
 
 DEBIAN_NATIVE_TESTS = "run_native_test_kmod"
 TEST_DIR = "${B}/test"
+SRC_REV="53ac4c06ad04680ba6720fae107b9d4f6bb9c789"

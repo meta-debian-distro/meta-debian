@@ -118,3 +118,4 @@ RDEPENDS_${PN}-ptest_append_libc-glibc = "\
             glibc-localedata-translit-cjk-variants \
            "
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="430ce8b90816353754135f906c187d0ca3db193c"

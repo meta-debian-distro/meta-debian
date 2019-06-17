@@ -59,3 +59,4 @@ FILES_icu-devtools += "${bindir}/* ${sbindir}/*"
 FILES_libicu += "${libdir}/*.so.*"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="2db0d6549bd546008f3ed7d24817edec16b3d0df"

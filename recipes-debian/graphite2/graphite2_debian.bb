@@ -42,3 +42,4 @@ do_install_append() {
 DEBIANNAME_${PN}-dbg = "lib${PN}-3-dbg"
 
 BBCLASSEXTEND = "native"
+SRC_REV="0871508d6e6ebf9bafb9133ebccd71c0ddfe5d9e"

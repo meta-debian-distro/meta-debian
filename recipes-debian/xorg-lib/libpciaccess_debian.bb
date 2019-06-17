@@ -21,3 +21,4 @@ REQUIRED_DISTRO_FEATURES = ""
 
 # There is not debian patch file
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="be5e06a4ad4d02205673706f9d599c40446a7521"

@@ -22,3 +22,4 @@ DEBIAN_PATCH_TYPE = "nopatch"
 
 # Rename package follow Debian
 PKG_${PN}-dev = "x11proto-present-dev"
+SRC_REV="e1f1ce25af24b92e6225ac981eb68c72d15d567c"

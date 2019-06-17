@@ -65,3 +65,4 @@ def get_alsa_fpu_setting(bb, d):
     return ""
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="08cacaf22b9e1e8cac969ffb780ea1489bdc6ead"

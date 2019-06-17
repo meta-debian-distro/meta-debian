@@ -17,3 +17,4 @@ DEPENDS += "libxau libxext libxmu"
 PE = "1"
 
 DEBIAN_PATCH_TYPE = "quilt"
+SRC_REV="8db612015edc52c61198c10e1f2b4ef81cfd169a"

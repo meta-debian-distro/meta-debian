@@ -80,3 +80,4 @@ FILES_${PN} = "${libdir}/lib*${SOLIBS}"
 DEBIANNAME_${PN}-python = "python-libxml2"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="70d540c8992becb7376c0308025f92250f6947fc"

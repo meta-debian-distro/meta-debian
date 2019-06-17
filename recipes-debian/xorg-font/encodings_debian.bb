@@ -29,3 +29,4 @@ DEBIAN_PATCH_TYPE = "nopatch"
 SRC_URI += " \
 	file://nocompiler.patch \
 "
+SRC_REV="50bd99d874c8fa2a05bc4fa274e5d9f26b26fefa"

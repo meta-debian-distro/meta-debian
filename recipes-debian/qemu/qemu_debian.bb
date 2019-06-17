@@ -229,3 +229,4 @@ BROKEN_qemumips64 = "1"
 BROKEN_qemumips = "1"
 
 INSANE_SKIP_${PN} = "arch"
+SRC_REV="0a09076607f1dcf6d4b99885f1cb387cc727dd8c"

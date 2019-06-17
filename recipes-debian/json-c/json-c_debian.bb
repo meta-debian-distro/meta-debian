@@ -76,3 +76,4 @@ FILES_libjson-c2 = "${base_libdir}/*.so.2*"
 
 FILES_libjson-c-dev =  "${includedir}/json-c/* ${libdir}/libjson-c.so \
 			${libdir}/pkgconfig/json-c.pc"
+SRC_REV="ffd7f34361ad93a0805cb85bd550fc591e0d64b1"

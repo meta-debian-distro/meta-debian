@@ -48,3 +48,4 @@ RPROVIDES_${PN} += "libpixman"
 RPROVIDES_${PN}-dev += "libpixman-dev"
 
 LEAD_SONAME = "libpixman*.so"
+SRC_REV="00b213dd9b9e93a6f579a8c732a660edad43e82d"

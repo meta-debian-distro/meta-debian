@@ -46,3 +46,4 @@ do_compile_append(){
 FILES_${PN}-dbg += "${libdir}/perl/vendor_perl/*/auto/XML/Parser/Expat/.debug/"
 
 BBCLASSEXTEND="native"
+SRC_REV="687a9fff1fdfece7097f3c8f17bc24a920332c32"

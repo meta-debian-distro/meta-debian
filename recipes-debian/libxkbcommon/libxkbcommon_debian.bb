@@ -36,3 +36,4 @@ FILES_${PN}-x11-dev = " \
     ${libdir}/libxkbcommon-x11${SOLIBSDEV} \
     ${libdir}/pkgconfig/xkbcommon-x11.pc \
 "
+SRC_REV="4f5581c2e166911c0910047600c02fd0535a7ede"

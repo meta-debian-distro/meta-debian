@@ -26,3 +26,4 @@ FILES_${PN}-libev = "${libdir}/libverto-libev${SOLIBS}"
 FILES_${PN}-glib = "${libdir}/libverto-glib${SOLIBS}"
 
 RDEPENDS_${PN} += "${PN}-libev"
+SRC_REV="ca60e8aca81e79282b69bed4f2e6f8a9e96d976b"

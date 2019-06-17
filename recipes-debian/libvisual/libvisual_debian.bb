@@ -36,3 +36,4 @@ do_install_append() {
 }
 PARALLEL_MAKE = ""
 FILES_${PN} += "${datadir}"
+SRC_REV="6b24bf8aa65b60e82e642b2421af97c4e4f4b3a2"

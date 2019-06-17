@@ -95,3 +95,4 @@ do_install_base () {
 
 	install -d ${D}${localstatedir}/log/apt/
 }
+SRC_REV="8eb714849822cde53f09c2bd4c54187a50c53464"

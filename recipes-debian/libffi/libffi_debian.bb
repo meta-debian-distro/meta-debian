@@ -31,3 +31,4 @@ FILES_${PN}-dev += "${libdir}/libffi-${PV}"
 DEBIANNAME_${PN} = "libffi6"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="3cc10cf7e625b3520265cea8d07029509d3aeeee"

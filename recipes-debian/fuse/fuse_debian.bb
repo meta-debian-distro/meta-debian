@@ -71,3 +71,4 @@ FILES_lib${PN} = "${base_libdir}/*.so.*"
 FILES_${PN} += "\
 		${datadir}/initramfs-tools/hooks/fuse \
 		${base_libdir}/modules-load.d/fuse.conf"
+SRC_REV="0eacbc2e6a84fe60431db8f3c62e08fc2f3784bd"

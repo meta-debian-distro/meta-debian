@@ -47,3 +47,4 @@ do_compile_prepend() {
 }
 
 BBCLASSEXTEND = "nativesdk"
+SRC_REV="0601a799dcdb9adf19af4282f27864a2b1997b3d"

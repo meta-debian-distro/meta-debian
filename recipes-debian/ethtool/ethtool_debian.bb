@@ -50,3 +50,4 @@ do_install_ptest () {
 	install ${B}/ethtool             ${D}${PTEST_PATH}/ethtool
 	sed -i 's/^Makefile/_Makefile/'  ${D}${PTEST_PATH}/Makefile
 }
+SRC_REV="bb474b5bf64577be271fba4b65d9e58a05844dc5"

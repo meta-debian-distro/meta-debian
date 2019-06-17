@@ -24,3 +24,4 @@ DPN = "x11proto-xinerama"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="b746160ba7ec36e8fac8195054ec19b81648f19d"

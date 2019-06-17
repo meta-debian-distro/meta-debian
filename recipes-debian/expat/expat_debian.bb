@@ -34,3 +34,4 @@ DEBIANNAME_${PN}-dev = "lib${PN}1-dev"
 RPROVIDES_${PN}-dev += "lib${PN}-dev"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="f35078f0c5d2cd7def68479d8901731fb80c20d9"

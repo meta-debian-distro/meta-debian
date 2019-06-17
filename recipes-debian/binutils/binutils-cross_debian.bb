@@ -37,3 +37,4 @@ do_install () {
 	rmdir ${D}${STAGING_DIR_NATIVE}${prefix_native}/${libdir}64 || :
 	rmdir ${D}${STAGING_DIR_NATIVE}${prefix_native}/${prefix} || :
 }
+SRC_REV="612e69aa722e6fb78bd25704e3afd51bc4bbbd79"

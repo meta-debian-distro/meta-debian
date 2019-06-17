@@ -36,3 +36,4 @@ FILES_${PN} = "${includedir}/* ${bindir}/*"
 EXTRA_OECONF += "--without-guile"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="dab988c2afe55b3c1004590c5846416261b04847"

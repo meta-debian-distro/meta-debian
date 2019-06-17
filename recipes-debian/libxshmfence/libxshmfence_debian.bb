@@ -20,3 +20,4 @@ do_install_append() {
 	#remove .la files
 	rm ${D}${libdir}/*.la
 }
+SRC_REV="d07eabff62a6eddec373e0eff68d3a6f4e2baf7c"

@@ -51,3 +51,4 @@ FILES_tiff-utils-dbg += "${bindir}/.debug/"
 DEBIANNAME_${PN}-dev = "libtiff5-dev"
 
 BBCLASSEXTEND = "native"
+SRC_REV="d02746e04aa7cc062ff57949a1606938e56e8e5c"

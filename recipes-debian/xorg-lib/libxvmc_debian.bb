@@ -25,3 +25,4 @@ DEBIAN_PATCH_TYPE = "nopatch"
 
 PKG_${PN} = "${PN}1"
 PKG_${PN}-dbg = "${PN}1-dbg"
+SRC_REV="d5fb374943ad188ed5974d45746d3234c362720d"

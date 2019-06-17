@@ -33,3 +33,4 @@ do_install_append() {
 }
 
 FILES_${PN} += "${datadir}/misc/"
+SRC_REV="53c4d0c713a8c511c11703f38b159cceb0dfa6b8"

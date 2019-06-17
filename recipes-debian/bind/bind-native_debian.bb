@@ -24,3 +24,4 @@ do_install_append () {
 	install -m 0755 ${B}/lib/dns/gen ${D}${base_bindir}/gen-lib-dns
 	install -m 0755 ${B}/bin/tools/genrandom ${D}${base_bindir}
 }
+SRC_REV="bce897548f1f7cd866640195a2edcec8a070ab8e"

@@ -374,3 +374,4 @@ RDEPENDS_${PN} += "${PN}-base ${PN}-modules"
 SSTATE_SCAN_FILES += "*.pm *.pod *.h *.pl *.sh"
 
 BBCLASSEXTEND = "nativesdk"
+SRC_REV="a4ecd4790a2d6eb112b97178fd7c033fcaeaf361"

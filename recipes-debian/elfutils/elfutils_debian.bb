@@ -91,3 +91,4 @@ INSANE_SKIP_${MLPREFIX}libdw = "dev-so"
 
 # For cross compiling
 EXTRA_OECONF += " --host=${HOST_SYS} --with-biarch=yes"
+SRC_REV="63e6fc87f893e3256cc50f3f2a5c9e2f55f37fd5"

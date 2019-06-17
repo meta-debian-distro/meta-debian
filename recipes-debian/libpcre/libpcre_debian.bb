@@ -89,3 +89,4 @@ do_install_ptest() {
 	  do cp ${S}/$i $t; \
 	done
 }
+SRC_REV="14df9c21caf5adb241a6fb2f28dcb5197711d12e"

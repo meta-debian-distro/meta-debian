@@ -207,3 +207,4 @@ PKG_lib${PN}-dev = "lib${PN}4-dev"
 PKG_lib${PN}-dbg = "lib${PN}4-dbg"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="075b43e0f166926a13af05dc9b9424232bdd086c"

@@ -33,3 +33,4 @@ do_compile() {
 FILES_${PN} =+ " ${datadir}"
 
 BBCLASSEXTEND = "native"
+SRC_REV="4a5d3dafaebee52e8d35b24b8aa84aa1af6e3019"

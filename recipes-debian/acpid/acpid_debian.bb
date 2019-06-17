@@ -56,3 +56,4 @@ FILES_${PN} = " \
 	${sysconfdir} \
 	${systemd_unitdir} \
 "
+SRC_REV="c5735e79510bfbc2f32868a96653b9c9d067d57b"

@@ -17,3 +17,4 @@ RDEPENDS_${PN}_class-native = ""
 RDEPENDS_${PN} += "perl-module-carp perl-module-exporter perl-module-strict perl-module-time-local"
 
 BBCLASSEXTEND = "native"
+SRC_REV="d1625037f83e7261772c9ed690a271c411f27d8f"

@@ -13,3 +13,4 @@ do_configure_append() {
 }
 
 BBCLASSEXTEND = "native"
+SRC_REV="e8aa8dc58d9e439ad2486a0c2637b959bf91224d"

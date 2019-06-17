@@ -20,3 +20,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_mklibs"
 TEST_DIR = "${B}/native-test"
+SRC_REV="57e8ebda489f1b0c748b31a6b04c9befda630563"

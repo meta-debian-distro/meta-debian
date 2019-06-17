@@ -72,3 +72,4 @@ SRC_URI_DEBIAN_TEST = "\
 
 DEBIAN_NATIVE_TESTS = "run_native_test_quilt"
 TEST_DIR = "${B}/quilt-native-test"
+SRC_REV="efd5e43285afd62406fedc69cf7ffb689119567d"

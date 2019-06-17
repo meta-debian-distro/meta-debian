@@ -77,3 +77,4 @@ do_install_append() {
 EXTRA_OECONF += "ac_cv_path_M4=m4"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="df842cf9737f69c5b31b2e63b626d6fc63f2c7a1"

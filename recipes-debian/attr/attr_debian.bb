@@ -44,3 +44,4 @@ do_install_ptest() {
 RDEPENDS_${PN}-ptest = "coreutils perl-module-filehandle perl-module-getopt-std perl-module-posix"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="c31640fd55f8a6c166c0d35b4cbde8aab152ef0e"

@@ -22,3 +22,4 @@ DPN = "x11proto-xf86vidmode"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="f7f17e21cf8c7ac34e858da6e2df1b4345edf716"

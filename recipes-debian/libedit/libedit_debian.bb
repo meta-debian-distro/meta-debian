@@ -23,3 +23,4 @@ do_install_append() {
 DEBIANNAME_${PN}-dbg = "libedit2-dbg"
 
 FILE_${PN}-dev += "${includedir}/editline/history.h"
+SRC_REV="3725cd36e0874963b07b39312cde21c713d5fb6a"

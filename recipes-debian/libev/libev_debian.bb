@@ -21,3 +21,4 @@ do_install_append() {
 	# Remove event.h to avoid conflict with libevent
 	rm -f ${D}${includedir}/event.h
 }
+SRC_REV="0c3c304a8f69da4d3feb453ce6a3691edf6c63a8"

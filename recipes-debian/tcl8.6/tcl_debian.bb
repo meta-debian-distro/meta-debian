@@ -159,3 +159,4 @@ BINCONFIG_GLOB = "*Config.sh"
 
 # Fix the path in sstate
 SSTATE_SCAN_FILES += "*Config.sh"
+SRC_REV="e5793822e6cf199ba606475ac6793a072afa2b2e"

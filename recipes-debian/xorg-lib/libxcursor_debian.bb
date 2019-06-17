@@ -26,3 +26,4 @@ BBCLASSEXTEND = "native"
 DEBIAN_PATCH_TYPE = "nopatch"
 
 DEBIANNAME_${PN}-dbg = "${PN}1-dbg"
+SRC_REV="9171d82b0c4c77ed8094ab6030105aa3fb582b51"

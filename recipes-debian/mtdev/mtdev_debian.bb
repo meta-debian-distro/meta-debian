@@ -25,3 +25,4 @@ RPROVIDES_${PN}-dev += "lib${PN}-dev"
 
 # Prevent mtdev-tools auto name to libmtdev-tools
 DEBIAN_NOAUTONAME_${PN}-tools = "1"
+SRC_REV="5d30e0a3e89698f200a2afc5f5f0b93b14558e29"

@@ -30,3 +30,4 @@ do_install_append_class-native () {
 }
 
 BBCLASSEXTEND = "native"
+SRC_REV="d8f22e29d7a025ede1334ba95aaacc41a376fb4f"

@@ -24,3 +24,4 @@ XORG_PN = "libXv"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="29bdd0f8a0a3e389ae1f730e8d320fc71ef7c33c"

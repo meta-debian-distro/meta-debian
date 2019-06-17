@@ -23,3 +23,4 @@ EXTRA_OECONF = "--disable-examples"
 LEAD_SONAME = "libtheora.so.0"
 
 DEBIANNAME_${PN} = "libtheora0"
+SRC_REV="93a36f7c7d5eb74270b3fe10b4c405670c5d480f"

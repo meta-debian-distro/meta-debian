@@ -111,3 +111,4 @@ python __anonymous() {
 
 PARALLEL_MAKE = ""
 BBCLASSEXTEND = "native"
+SRC_REV="a42d9ad7d91a32c2cb69f3e36b2ffcb437d1d11a"

@@ -27,3 +27,4 @@ DPN = "x11proto-render"
 
 # There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="d68f3444d76ca848ae5bb26360d31dd54bfaeabe"

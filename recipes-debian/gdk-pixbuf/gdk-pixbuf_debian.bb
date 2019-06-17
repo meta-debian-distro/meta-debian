@@ -119,3 +119,4 @@ gdkpixbuf_sstate_preinst() {
 		rm -rf ${STAGING_LIBDIR_NATIVE}/gdk-pixbuf-2.0/${LIBV}/*
 	fi
 }
+SRC_REV="872a6159ffd5a1fef163fe359d33d836d6f745aa"

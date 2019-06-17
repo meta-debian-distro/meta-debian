@@ -359,3 +359,4 @@ RDEPENDS_${PN}-kdc += "lsb-base"
 INSANE_SKIP_${PN}-multidev = "dev-so"
 
 PARALLEL_MAKE = ""
+SRC_REV="8c98ec814a845682d9884ae11bfb78b5390c6386"

@@ -16,3 +16,4 @@ inherit autotools-brokensep
 DEBIANNAME_${PN}-dbg = "${PN}0-dbg"
 
 BBCLASSEXTEND = "native"
+SRC_REV="2d9359642bed814540c2ac1a826a910fe4c456dd"

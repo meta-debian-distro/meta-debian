@@ -31,3 +31,4 @@ do_install_append () {
 	install -m 755 ${S}/debian/local/xserverrc ${D}${sysconfdir}/X11/xinit
 	chmod 755 ${D}${sysconfdir}/X11/xinit/xinitrc
 }
+SRC_REV="e035db9c73ef625246da6c0b76ffb11b3d224325"

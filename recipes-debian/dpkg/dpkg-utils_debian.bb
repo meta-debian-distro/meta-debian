@@ -83,3 +83,4 @@ ALTERNATIVE_start-stop-daemon = "start-stop-daemon"
 ALTERNATIVE_LINK_NAME[start-stop-daemon] = "${base_sbindir}/start-stop-daemon"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="481c02c058ec6f306e0e8b0e697eda9794769f7b"

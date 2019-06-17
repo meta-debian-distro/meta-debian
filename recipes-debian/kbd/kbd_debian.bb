@@ -88,3 +88,4 @@ BBCLASSEXTEND = "native"
 do_debian_fix_timestamp_prepend() {
 	git rm ${S}/doc/utf/??????
 }
+SRC_REV="7b6bdc5be10e42c314562b32b57a5380da51857b"

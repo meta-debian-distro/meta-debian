@@ -58,3 +58,4 @@ export CONFIG_SHELL="/bin/bash"
 do_debian_patch_prepend() {
 	sed -i -e "/link_all_deplibs/ d" ${S}/debian/patches/series
 }
+SRC_REV="49abf1fe2200b9338e2f3d6168be4804db950f14"

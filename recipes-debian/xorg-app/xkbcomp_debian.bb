@@ -35,3 +35,4 @@ do_debian_patch_prepend() {
 }
 
 S = "${DEBIAN_UNPACK_DIR}/${PN}"
+SRC_REV="9842b40facdfcda173b4b85f437ec57ebb39831e"

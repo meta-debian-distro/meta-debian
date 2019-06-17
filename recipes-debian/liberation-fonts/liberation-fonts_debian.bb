@@ -40,3 +40,4 @@ FILES_ttf-liberation = "${datadir}/fonts/truetype/ttf-liberation"
 
 PKG_${PN} = "fonts-liberation"
 RPROVIDES_${PN} = "fonts-liberation"
+SRC_REV="fe476371a3d517f29c9cd11ce463a2b35e1e14de"

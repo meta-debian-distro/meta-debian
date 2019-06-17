@@ -53,3 +53,4 @@ do_install_append() {
 FILES_${PN}-dev += "${bindir}/gpg-error"
 
 BBCLASSEXTEND = "native"
+SRC_REV="1158979da2e8141d5709fec3a88ba550fb22276b"

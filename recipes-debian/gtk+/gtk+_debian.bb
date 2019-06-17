@@ -56,3 +56,4 @@ do_configure_prepend() {
 }
 
 BBCLASSEXTEND = "native"
+SRC_REV="8a8abefcd4e790239b1f9af7e1dd6b2953e8546e"

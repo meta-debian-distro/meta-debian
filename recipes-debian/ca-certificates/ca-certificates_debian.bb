@@ -86,3 +86,4 @@ do_install_append_class-native () {
 }
 
 BBCLASSEXTEND += "native nativesdk"
+SRC_REV="66b93b10d2aea099025339c463679571e4aed8c8"

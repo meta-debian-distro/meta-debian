@@ -23,3 +23,4 @@ DPN = "x11proto-bigreqs"
 
 # there is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="b1afd746d253c9f86d19cd1cd5f51cc0b90898dc"

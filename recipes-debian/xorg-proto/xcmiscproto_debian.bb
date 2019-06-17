@@ -23,3 +23,4 @@ DPN = "x11proto-xcmisc"
 
 #There is no debian patch
 DEBIAN_PATCH_TYPE = "nopatch"
+SRC_REV="1e1deebddf096a7f550a96a5a39c6f2716b568a8"

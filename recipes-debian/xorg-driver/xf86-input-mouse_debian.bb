@@ -22,3 +22,4 @@ DPN = "xserver-xorg-input-mouse"
 
 #Apply patch by quilt
 DEBIAN_PATCH_TYPE = "quilt"
+SRC_REV="ddd18c80291531780e44cd1a3cf64e128c17a47e"

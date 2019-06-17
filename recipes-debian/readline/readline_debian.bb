@@ -51,3 +51,4 @@ PKG_${PN}-doc = "lib${PN}6-doc"
 PKG_${PN}-staticdev = "lib${PN}6-staticdev"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="d821ab19347d92bcd877dd5d67a13d43c3d93f76"

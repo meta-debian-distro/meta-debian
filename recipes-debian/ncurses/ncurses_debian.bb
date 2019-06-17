@@ -447,3 +447,4 @@ RDEPENDS_libncursesw5-dev += "libtinfo-dev ncurses-bin"
 RDEPENDS_ncurses-term += "ncurses-base"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="40fa2e97fd33d7be813831774d09cfe5350b1140"

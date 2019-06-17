@@ -34,3 +34,4 @@ BBCLASSEXTEND = "native"
 
 #Apply debian patch by quilt
 DEBIAN_PATCH_TYPE = "quilt"
+SRC_REV="4438a0157215f1629a058101319623abe1d9a35e"

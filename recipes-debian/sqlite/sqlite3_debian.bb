@@ -115,3 +115,4 @@ FILES_${PN}-dbg += "${libdir}/tcltk/sqlite3/.debug"
 AUTO_LIBNAME_PKGS = "${MLPREFIX}lib${DPN}"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="5c36951b5931659d2ebf28a42d4a409f5daa6314"

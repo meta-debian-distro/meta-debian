@@ -65,3 +65,4 @@ python __anonymous() {
         for prog in d.getVar('base_sbindir_progs', True).split():
                 d.setVarFlag('ALTERNATIVE_LINK_NAME', prog, '%s/%s' % (d.getVar('base_sbindir', True), prog))
 }
+SRC_REV="53ac4c06ad04680ba6720fae107b9d4f6bb9c789"

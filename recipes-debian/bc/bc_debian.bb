@@ -34,3 +34,4 @@ FILES_dc = "${bindir}/dc"
 FILES_${PN} = "${bindir}/bc"
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="b6cc6cd3b8c4f10b83778f2fa210ba18a6efab59"

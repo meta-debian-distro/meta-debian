@@ -47,3 +47,4 @@ PACKAGES = "xkb-data"
 
 FILES_xkb-data = "${datadir}" 
 
+SRC_REV="910d41fecc4f2e500fd0812c036a633c9af08120"

@@ -194,3 +194,4 @@ pkg_postinst_${PN} () {
 }
 
 BBCLASSEXTEND = "native nativesdk"
+SRC_REV="a1385ce20168697d91276d8af44c95719f712b3a"

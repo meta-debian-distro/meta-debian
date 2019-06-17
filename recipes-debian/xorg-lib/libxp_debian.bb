@@ -24,3 +24,4 @@ do_install_append() {
 	rm -rf ${D}${libdir}/libXp.la
 	rm -rf ${D}${mandir}/man3
 }
+SRC_REV="78536d0a62ed859e49dd0ca49409d9260c5cb563"

@@ -11,3 +11,4 @@ PR = "r0"
 
 inherit debian-package autotools pkgconfig gettext
 PV = "0.26.5"
+SRC_REV="683feeef165a7e99f8e74e71f2ba1c17173cf9ec"
